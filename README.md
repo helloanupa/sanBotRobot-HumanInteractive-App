@@ -393,18 +393,6 @@ sanBotRobot-HumanInteractive-App/
 
 ---
 
-## 👨‍💻 Developer
-
-**Anupa Denil Amarasekara**
-
-Information Technology Undergraduate | IoT & Smart Embedded Systems Enthusiast
-
-* GitHub: [@helloanupa](https://github.com/helloanupa)
-* LinkedIn: [Anupa Denil Amarasekara](https://www.linkedin.com/in/anupadenil/)
-* Portfolio: [anupadenil.online](https://www.anupadenil.online/)
-
----
-
 ## 📄 Project Purpose
 
 This project demonstrates the practical integration of:
